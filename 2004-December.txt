@@ -1,0 +1,33 @@
+From noreply at berlios.de  Wed Dec  8 13:02:24 2004
+From: noreply at berlios.de (noreply at berlios.de)
+Date: Wed, 8 Dec 2004 13:02:24 +0100 (CET)
+Subject: [Roosster-devel] [Task #1457] Add Note and Tag capabilities
+Message-ID: <200412081202.iB8C2OF5008076@unicorn.berlios.de>
+
+Task #1457 has been updated. 
+
+Project: roosster - personal search 
+Subproject: roosster0.2
+Summary: Add Note and Tag capabilities
+Percent Complete: 0%
+Status: Open
+Authority  : firstbman
+Assigned to: 
+
+Description: It must be possible to add arbitrary number of tags and a text note to any entry (both gets indexed too)
+
+-------------------------------------------------------
+For more info, visit:
+
+http://developer.berlios.de/pm/task.php?func=detailtask&project_task_id=1457&group_id=2685&group_project_id=692
+
+
+From benjamin at nur-eine-i.de  Thu Dec  9 17:01:53 2004
+From: benjamin at nur-eine-i.de (Benjamin Reitzammer)
+Date: Thu, 09 Dec 2004 17:01:53 +0100
+Subject: [Roosster-devel] test
+Message-ID: <41B876F1.5050404@nur-eine-i.de>
+
+test
+
+
